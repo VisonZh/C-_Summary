@@ -36,8 +36,8 @@ int main(void)
 	//prChild.m_pr = 1;//private继承，父类的private属性变为 private，子类对象不可以访问private成员
 
 
-	std::cout << MySizeof(prChild) << std::endl;
+	//std::cout << MySizeof(prChild) << std::endl;
 
-	getchar();
+	//getchar();
 	return 0;
 }

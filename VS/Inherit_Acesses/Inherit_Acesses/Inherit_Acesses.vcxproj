@@ -118,6 +118,7 @@
     <ClCompile Include="..\..\..\Inherit_Acesses.cpp" />
     <ClCompile Include="..\..\..\main.cpp" />
     <ClCompile Include="..\..\..\MySizeof.cpp" />
+    <ClCompile Include="ReverseSingleList.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\Inherit_Acesses.h" />
